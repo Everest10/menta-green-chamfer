@@ -10,4 +10,6 @@ Keep the panel on horizontal positon.
 
 report bugs to : well_nagib@hotmail.com
 
-https://i.imgur.com/JWyb0c4.png
+Screenshot 1 - https://i.imgur.com/JWyb0c4.png
+Screenshot 2 - https://i.imgur.com/9hjdK8f.png
+Screenshot 3 - https://i.imgur.com/BSFcy8i.png
