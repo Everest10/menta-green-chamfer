@@ -8,8 +8,6 @@ Cinnamon theme.
 
 Keep the panel on horizontal positon.
 
-report bugs to : well_nagib@hotmail.com
-
 Screenshot 1 - https://i.imgur.com/JWyb0c4.png
 
 Screenshot 2 - https://i.imgur.com/9hjdK8f.png
